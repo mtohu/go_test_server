@@ -1,0 +1,10 @@
+Host: 127.0.0.1
+Port: 3307
+UserName: root
+PassWord:
+DBName: taigu_dms
+OpenNum: 800
+IdleNum: 300
+Charset: utf8
+ShowSQL: true
+
